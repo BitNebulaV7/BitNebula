@@ -1,6 +1,7 @@
 #🌌 BitNebula
 
 Hi there 👋
+
 A Data Analysis learner exploring how patterns emerge in data and in thought.
 
 🌱 What I’m learning
