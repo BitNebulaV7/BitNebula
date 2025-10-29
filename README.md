@@ -1,4 +1,4 @@
-#🌌 BitNebula
+#BitNebula 
 
 Hi there 👋
 
